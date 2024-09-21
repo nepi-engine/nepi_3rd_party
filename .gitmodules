@@ -1,0 +1,16 @@
+[submodule "nepi_mavros"]
+	path = nepi_mavros
+	url = git@github.com:nepi-engine/nepi_mavros.git
+[submodule "zed-ros-wrapper"]
+	path = zed-ros-wrapper
+	url = https://github.com/stereolabs/zed-ros-wrapper.git
+[submodule "ros_numpy"]
+	path = ros_numpy
+	url = git@github.com:nepi-engine/ros_numpy.git
+[submodule "nepi_darknet_ros"]
+	path = nepi_darknet_ros
+	url = git@github.com:nepi-engine/nepi_darknet_ros.git
+[submodule "nepi_gpsd"]
+	path = nepi_gpsd
+	url = git@github.com:nepi-engine/nepi_gpsd.git
+
