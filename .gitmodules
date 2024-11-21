@@ -7,13 +7,12 @@
 [submodule "ros_numpy"]
 	path = ros_numpy
 	url = git@github.com:nepi-engine/ros_numpy.git
-[submodule "nepi_gpsd"]
-	path = nepi_gpsd
-	url = git@github.com:nepi-engine/nepi_gpsd.git
-
 [submodule "nepi_darknet_ros"]
 	path = nepi_darknet_ros
 	url = git@github.com:nepi-engine/nepi_darknet_ros.git
 [submodule "nepi_yolov5"]
 	path = nepi_yolov5
 	url = git@github.com:nepi-engine/nepi_yolov5.git
+[submodule "nepi_gpsd_ros_client"]
+	path = nepi_gpsd_ros_client
+	url = git@github.com:nepi-engine/nepi_gpsd_ros_client.git
