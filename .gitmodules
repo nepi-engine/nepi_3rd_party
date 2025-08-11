@@ -13,3 +13,6 @@
 [submodule "nepi_gemini"]
 	path = nepi_gemini
 	url = git@github.com:nepi-engine/nepi_gemini.git
+[submodule "MSCL"]
+	path = MSCL
+	url = git@github.com:nepi-engine/MSCL.git
