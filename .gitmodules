@@ -6,7 +6,3 @@
 	path = nepi_yolov5
 	url = git@github.com:nepi-engine/nepi_yolov5.git
 	branch = ros1_main
-[submodule "zed-ros-wrapper"]
-	path = zed-ros-wrapper
-	url = git@github.com:nepi-engine/zed-ros-wrapper.git
-	branch = ros1_main
