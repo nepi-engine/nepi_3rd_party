@@ -2,7 +2,4 @@
 	path = ros_numpy
 	url = git@github.com:nepi-engine/ros_numpy.git
 	branch = main
-[submodule "nepi_yolov5"]
-	path = nepi_yolov5
-	url = git@github.com:nepi-engine/nepi_yolov5.git
-	branch = main
+
